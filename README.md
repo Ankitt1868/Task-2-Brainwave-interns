@@ -1,7 +1,7 @@
 # Task-2-Brainwave-interns
 
 # click here for the demo  
-(https://ankitt1868.github.io/Task-2-Brainwave-interns/)
+Check out the live demo [here](https://ankitt1868.github.io/Task-2-Brainwave-interns/)
 
 # Screenshots
 # Number-1
